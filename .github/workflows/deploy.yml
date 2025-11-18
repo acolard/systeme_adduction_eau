@@ -15,5 +15,5 @@ jobs:
     - uses: wangchucheng/git-repo-sync@v0.1.0
       with:
         target-url: https://forge.apps.education.fr/arnaudcolard/syst-me-d-adduction-d-eau
-        target-username: arnaudcolard
+        target-username: Arnaud Colard
         target-token: ${{ secrets.GITLAB_TOKEN }}
