@@ -16,6 +16,6 @@ jobs:
       - name: Sync to Forge EDU
         uses: wangchucheng/git-repo-sync@v0.1.0
         with:
-          target-url: https://oauth2:${{ secrets.GITLAB_TOKEN }}@forge.apps.education.fr/arnaudcolard/systeme_adduction_eau.git
-          target-username: oauth2
+          target-url: https://forge.apps.education.fr/arnaudcolard/systeme_adduction_eau.git
+          target-username: Arnaud Colard
           target-token: ${{ secrets.GITLAB_TOKEN }}
