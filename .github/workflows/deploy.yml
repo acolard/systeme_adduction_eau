@@ -9,11 +9,16 @@ jobs:
     runs-on: ubuntu-latest
     name: Git Repo Sync
     steps:
-    - uses: actions/checkout@v2
-      with:
-        fetch-depth: 0
-    - uses: wangchucheng/git-repo-sync@v0.1.0
-      with:
-        target-url: https://forge.apps.education.fr/arnaudcolard/syst-me-d-adduction-d-eau
-        target-username: Arnaud Colard
-        target-token: ${{ secrets.GITLAB_TOKEN }}
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - uses: wangchucheng/git-repo-sync@v0.1.0
+        with:
+          source_repo: https://github.com/${{ github.repository }}.git
+          source_branch: main
+
+          target_repo: https://oauth2:${{ secrets.GITLAB_TOKEN }}@forge.apps.education.fr/arnaudcolard/syst-me-d-adduction-d-eau.git
+          target_branch: main
+
+          github_token: ${{ secrets.GITHUB_TOKEN }}
