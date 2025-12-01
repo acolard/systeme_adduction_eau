@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.1">
   <diagram name="Page-1" id="FD6a0eIkP-yFIm-n0HSb">
-    <mxGraphModel dx="4315" dy="1724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1585" dy="1544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -294,6 +294,9 @@
             <mxPoint x="617.5" y="550" as="sourcePoint" />
             <mxPoint x="583" y="440" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6-uEAo-Kq3mGAs13d5aC-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="&lt;h2 data-start=&quot;232&quot; data-end=&quot;313&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;✅ &lt;strong data-start=&quot;237&quot; data-end=&quot;313&quot;&gt;La relation &amp;lt;&amp;lt; deriveReqt &amp;gt;&amp;gt; indique qu’une exigence dérive d’une autre.&lt;/strong&gt;&lt;/font&gt;&lt;/h2&gt;&lt;u&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Exemple :&lt;br&gt;&lt;/font&gt;&lt;/u&gt;&lt;p data-start=&quot;315&quot; data-end=&quot;490&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;De l&#39;exigence &quot;Filtration - Id=1.1.1&quot; on dérive les exigences &quot;Microfiltration - id=1.1.1.1&quot; et &quot;Qualité de l&#39;eau - id=1.1.1.2&quot;&lt;/span&gt;&lt;/p&gt;&lt;h2 data-start=&quot;840&quot; data-end=&quot;918&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;✅ &lt;strong data-start=&quot;845&quot; data-end=&quot;918&quot;&gt;La relation &amp;lt;&amp;lt; refine &amp;gt;&amp;gt; indique qu’un élément apporte une description plus détaillée, un complément, ou une interprétation plus précise d’une autre exigence&lt;/strong&gt;&lt;/font&gt;&lt;/h2&gt;&lt;u&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Exemple :&lt;br&gt;&lt;/font&gt;&lt;/u&gt;&lt;p data-start=&quot;920&quot; data-end=&quot;952&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;L&#39;exigence de performance mesurable et vérifiable &quot;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); font-size: 10px;&quot;&gt;Diamètre des particules - Id=1.1.1.1.1&quot; précise l&#39;exigence &quot;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); font-size: 10px;&quot;&gt;Microfiltration - Id=1.1.1.1&quot;&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="300" width="530" x="-810" y="-60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
