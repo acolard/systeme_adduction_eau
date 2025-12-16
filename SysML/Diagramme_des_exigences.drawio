@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Page-1" id="FD6a0eIkP-yFIm-n0HSb">
-    <mxGraphModel dx="3734" dy="2606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="2074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,7 +58,7 @@
         <mxCell id="I0eCNYzOyJm9w0QBN4gf-20" parent="I0eCNYzOyJm9w0QBN4gf-32" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#F9CECB;spacingLeft=10;strokeColor=#AB5562;strokeWidth=2;" value="« performanceRequirement»&lt;br&gt;&lt;b&gt;Débit&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="239.99999999999997" x="10" as="geometry" />
         </mxCell>
-        <mxCell id="I0eCNYzOyJm9w0QBN4gf-21" parent="I0eCNYzOyJm9w0QBN4gf-32" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#F9CECB;strokeColor=#AB5562;strokeWidth=2;" value="&lt;div&gt;Id= « 1.1 .2 »&lt;/div&gt;&lt;div&gt;Text= «&amp;nbsp; Garantir un débit minimal de captation de 1m&lt;sup&gt;3&lt;/sup&gt;/h conforme au besoin&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;»&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="I0eCNYzOyJm9w0QBN4gf-21" parent="I0eCNYzOyJm9w0QBN4gf-32" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#F9CECB;strokeColor=#AB5562;strokeWidth=2;" value="&lt;div&gt;Id= « 1.1 .2 »&lt;/div&gt;&lt;div&gt;Text= «&amp;nbsp; Garantir un débit minimal de captation de &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;b&gt;9,6&lt;/b&gt;&lt;/font&gt; m&lt;sup&gt;3&lt;/sup&gt;/h conforme au besoin&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;»&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="239.99999999999997" x="10" y="40" as="geometry" />
         </mxCell>
         <mxCell id="I0eCNYzOyJm9w0QBN4gf-33" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -247,23 +247,11 @@
             <mxPoint x="1945" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6-uEAo-Kq3mGAs13d5aC-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#F9CECB;spacingLeft=10;strokeColor=#AB5562;strokeWidth=2;" value="« performanceRequirement»&lt;br&gt;&lt;b&gt;Puissance pompe&lt;/b&gt;" vertex="1">
-          <mxGeometry height="40" width="239.99999999999997" x="80" y="670" as="geometry" />
-        </mxCell>
-        <mxCell id="6-uEAo-Kq3mGAs13d5aC-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#F9CECB;strokeColor=#AB5562;strokeWidth=2;" value="&lt;div&gt;Id= « 1.3 .1 »&lt;/div&gt;&lt;div&gt;Text= « ?????????????&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;»&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="239.99999999999997" x="80" y="710" as="geometry" />
-        </mxCell>
         <mxCell id="6-uEAo-Kq3mGAs13d5aC-39" edge="1" parent="1" source="6-uEAo-Kq3mGAs13d5aC-37" style="endArrow=open;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=0;" target="6-uEAo-Kq3mGAs13d5aC-3" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;«r&lt;/span&gt;&lt;span style=&quot;background-color: rgb(236, 236, 236);&quot;&gt;efine&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;»&lt;/span&gt;">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-66" y="980" as="sourcePoint" />
             <mxPoint x="107" y="640" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="6-uEAo-Kq3mGAs13d5aC-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#F9CECB;spacingLeft=10;strokeColor=#AB5562;strokeWidth=2;" value="« performanceRequirement»&lt;br&gt;&lt;b&gt;Puissance panneaux solaires&lt;/b&gt;" vertex="1">
-          <mxGeometry height="40" width="239.99999999999997" x="220" y="800" as="geometry" />
-        </mxCell>
-        <mxCell id="6-uEAo-Kq3mGAs13d5aC-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#F9CECB;strokeColor=#AB5562;strokeWidth=2;" value="&lt;div&gt;Id= « 1.3 .1 »&lt;/div&gt;&lt;div&gt;Text= « ?????????????&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;»&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="239.99999999999997" x="220" y="840" as="geometry" />
         </mxCell>
         <mxCell id="6-uEAo-Kq3mGAs13d5aC-42" edge="1" parent="1" source="6-uEAo-Kq3mGAs13d5aC-40" style="endArrow=open;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endFill=0;" target="I0eCNYzOyJm9w0QBN4gf-38" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;«r&lt;/span&gt;&lt;span style=&quot;background-color: rgb(236, 236, 236);&quot;&gt;efine&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;»&lt;/span&gt;">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -271,7 +259,7 @@
             <mxPoint x="357" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6-uEAo-Kq3mGAs13d5aC-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#F9CECB;spacingLeft=10;strokeColor=#AB5562;strokeWidth=2;" value="« performanceRequirement»&lt;br&gt;&lt;b&gt;Capacité des batteries&lt;/b&gt;" vertex="1">
+        <mxCell id="6-uEAo-Kq3mGAs13d5aC-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#F9CECB;spacingLeft=10;strokeColor=#AB5562;strokeWidth=2;" value="« performanceRequirement»&lt;br&gt;&lt;b&gt;Capacité&amp;nbsp;&lt;/b&gt;&lt;b&gt;minimale&amp;nbsp;&lt;/b&gt;&lt;b&gt;des batteries&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="239.99999999999997" x="480" y="800" as="geometry" />
         </mxCell>
         <mxCell id="6-uEAo-Kq3mGAs13d5aC-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#F9CECB;strokeColor=#AB5562;strokeWidth=2;" value="&lt;div&gt;Id= « 1.3 .1 »&lt;/div&gt;&lt;div&gt;Text= « ?????????????&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;»&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
@@ -297,6 +285,24 @@
         </mxCell>
         <mxCell id="6-uEAo-Kq3mGAs13d5aC-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="&lt;h2 data-start=&quot;232&quot; data-end=&quot;313&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;✅ &lt;strong data-start=&quot;237&quot; data-end=&quot;313&quot;&gt;La relation &amp;lt;&amp;lt; deriveReqt &amp;gt;&amp;gt; indique qu’une exigence dérive d’une autre.&lt;/strong&gt;&lt;/font&gt;&lt;/h2&gt;&lt;u&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Exemple :&lt;br&gt;&lt;/font&gt;&lt;/u&gt;&lt;p data-start=&quot;315&quot; data-end=&quot;490&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;De l&#39;exigence &quot;Filtration - Id=1.1.1&quot; on dérive les exigences &quot;Microfiltration - id=1.1.1.1&quot; et &quot;Qualité de l&#39;eau - id=1.1.1.2&quot;&lt;/span&gt;&lt;/p&gt;&lt;h2 data-start=&quot;840&quot; data-end=&quot;918&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;✅ &lt;strong data-start=&quot;845&quot; data-end=&quot;918&quot;&gt;La relation &amp;lt;&amp;lt; refine &amp;gt;&amp;gt; indique qu’un élément apporte une description plus détaillée, un complément, ou une interprétation plus précise d’une autre exigence&lt;/strong&gt;&lt;/font&gt;&lt;/h2&gt;&lt;u&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Exemple :&lt;br&gt;&lt;/font&gt;&lt;/u&gt;&lt;p data-start=&quot;920&quot; data-end=&quot;952&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;L&#39;exigence de performance mesurable et vérifiable &quot;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); font-size: 10px;&quot;&gt;Diamètre des particules - Id=1.1.1.1.1&quot; précise l&#39;exigence &quot;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); font-size: 10px;&quot;&gt;Microfiltration - Id=1.1.1.1&quot;&lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="300" width="530" x="-810" y="-60" as="geometry" />
+        </mxCell>
+        <mxCell id="ckJih1ObpwnBkCq9B-FR-1" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="100" width="270" x="50" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="6-uEAo-Kq3mGAs13d5aC-37" parent="ckJih1ObpwnBkCq9B-FR-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#F9CECB;spacingLeft=10;strokeColor=#AB5562;strokeWidth=2;" value="« performanceRequirement»&lt;br&gt;&lt;b&gt;Puissance hydraulique minimale pompe&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="269.99999999999994" as="geometry" />
+        </mxCell>
+        <mxCell id="6-uEAo-Kq3mGAs13d5aC-38" parent="ckJih1ObpwnBkCq9B-FR-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#F9CECB;strokeColor=#AB5562;strokeWidth=2;" value="&lt;div&gt;Id= « 1.3 .1 »&lt;/div&gt;&lt;div&gt;Text= «&amp;nbsp; Fournir une puissance hydraulique d&#39;au moins&amp;nbsp;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;b&gt;&lt;span class=&quot;mord&quot; style=&quot;background-color: transparent;&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;background-color: transparent;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot; style=&quot;background-color: transparent;&quot;&gt;180 &lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;span class=&quot;mord&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;W&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;»&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="269.99999999999994" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ckJih1ObpwnBkCq9B-FR-2" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="100" width="240" x="220" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="6-uEAo-Kq3mGAs13d5aC-40" parent="ckJih1ObpwnBkCq9B-FR-2" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#F9CECB;spacingLeft=10;strokeColor=#AB5562;strokeWidth=2;" value="« performanceRequirement»&lt;br&gt;&lt;b&gt;Puissance minimale panneaux solaires&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="239.99999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="6-uEAo-Kq3mGAs13d5aC-41" parent="ckJih1ObpwnBkCq9B-FR-2" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#F9CECB;strokeColor=#AB5562;strokeWidth=2;" value="&lt;div&gt;Id= « 1.3 .1 »&lt;/div&gt;&lt;div&gt;Text= « ?????????????&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;»&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="239.99999999999997" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
