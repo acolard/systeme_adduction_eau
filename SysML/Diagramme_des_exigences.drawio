@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Page-1" id="FD6a0eIkP-yFIm-n0HSb">
-    <mxGraphModel dx="3679" dy="2979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="2074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -308,10 +308,10 @@
         <mxCell id="ckJih1ObpwnBkCq9B-FR-9" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="140" width="240" x="-360" y="980" as="geometry" />
         </mxCell>
-        <mxCell id="ckJih1ObpwnBkCq9B-FR-10" parent="ckJih1ObpwnBkCq9B-FR-9" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#F9CECB;spacingLeft=10;strokeColor=#AB5562;strokeWidth=2;" value="« performanceRequirement»&lt;br&gt;&lt;b&gt;Type de bactéries&lt;/b&gt;" vertex="1">
+        <mxCell id="ckJih1ObpwnBkCq9B-FR-10" parent="ckJih1ObpwnBkCq9B-FR-9" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#F9CECB;spacingLeft=10;strokeColor=#AB5562;strokeWidth=2;" value="« performanceRequirement»&lt;br&gt;&lt;b&gt;Norme&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="300" x="-60" as="geometry" />
         </mxCell>
-        <mxCell id="ckJih1ObpwnBkCq9B-FR-11" parent="ckJih1ObpwnBkCq9B-FR-9" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#F9CECB;strokeColor=#AB5562;strokeWidth=2;" value="&lt;div&gt;Id= « 1.1.1.2.1.1 »&lt;/div&gt;&lt;div&gt;Text= «&amp;nbsp; Eliminer les Cyanobactéries également appellées &quot;Algues bleues&quot; (Blauwe algae)&lt;font style=&quot;background-color: transparent;&quot;&gt;»&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="ckJih1ObpwnBkCq9B-FR-11" parent="ckJih1ObpwnBkCq9B-FR-9" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#F9CECB;strokeColor=#AB5562;strokeWidth=2;" value="&lt;div&gt;Id= « 1.1.1.2.1.1 »&lt;/div&gt;&lt;div&gt;Text= «&amp;nbsp; Répondre au exigences du guide technique de référence mondial&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;USEPA&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;UVDGM 2006&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;»&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="300" x="-60" y="40" as="geometry" />
         </mxCell>
         <mxCell id="ckJih1ObpwnBkCq9B-FR-12" edge="1" parent="1" source="ckJih1ObpwnBkCq9B-FR-10" style="endArrow=open;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="I0eCNYzOyJm9w0QBN4gf-49" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;«r&lt;/span&gt;&lt;span style=&quot;background-color: rgb(236, 236, 236);&quot;&gt;efine&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;»&lt;/span&gt;">
@@ -385,21 +385,6 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="420" y="1094.9999999999995" as="sourcePoint" />
             <mxPoint x="470" y="1049.9999999999995" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ckJih1ObpwnBkCq9B-FR-29" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="140" width="230" x="-360" y="1140" as="geometry" />
-        </mxCell>
-        <mxCell id="ckJih1ObpwnBkCq9B-FR-30" parent="ckJih1ObpwnBkCq9B-FR-29" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#F9CECB;spacingLeft=10;strokeColor=#AB5562;strokeWidth=2;" value="« performanceRequirement»&lt;br&gt;&lt;div&gt;&lt;b&gt;Dose UV pour&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;réduction de 99,9%&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="229.99999999999997" x="-25" as="geometry" />
-        </mxCell>
-        <mxCell id="ckJih1ObpwnBkCq9B-FR-31" parent="ckJih1ObpwnBkCq9B-FR-29" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#F9CECB;strokeColor=#AB5562;strokeWidth=2;" value="&lt;div&gt;Id= « 1.1.1.2.1.1.1 »&lt;/div&gt;&lt;div&gt;Text= «&amp;nbsp; Produire une dose de &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;b&gt;???????&lt;/b&gt;&lt;/font&gt; mW.s/cm 2&lt;font style=&quot;background-color: transparent;&quot;&gt;»&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="229.99999999999997" x="-25" y="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ckJih1ObpwnBkCq9B-FR-32" edge="1" parent="1" source="ckJih1ObpwnBkCq9B-FR-30" style="endArrow=open;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="ckJih1ObpwnBkCq9B-FR-11" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;«r&lt;/span&gt;&lt;span style=&quot;background-color: rgb(236, 236, 236);&quot;&gt;efine&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;»&lt;/span&gt;">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="50" y="1200" as="sourcePoint" />
-            <mxPoint x="-220" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
