@@ -345,10 +345,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ckJih1ObpwnBkCq9B-FR-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#DCE7F5;spacingLeft=10;strokeColor=#7E8D9C;strokeWidth=2;" value="« functionnalRequirement»&lt;br&gt;&lt;b&gt;Commande des pompes&lt;/b&gt;" vertex="1">
-          <mxGeometry height="40" width="370" x="510" y="640" as="geometry" />
+          <mxGeometry height="40" width="380" x="510" y="640" as="geometry" />
         </mxCell>
         <mxCell id="ckJih1ObpwnBkCq9B-FR-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#DCE7F5;strokeColor=#7E8D9C;strokeWidth=2;" value="&lt;div&gt;Id= « 1.2.3 »&lt;/div&gt;&lt;div&gt;Text= « Commander automatiquement l’arrêt ou la mise en marche des pompes en fonction du niveau d&#39;eau dans les résevoirs&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;»&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="370" x="510" y="680" as="geometry" />
+          <mxGeometry height="60" width="380" x="510" y="680" as="geometry" />
         </mxCell>
         <mxCell id="ckJih1ObpwnBkCq9B-FR-21" edge="1" parent="1" source="ckJih1ObpwnBkCq9B-FR-19" style="endArrow=open;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6-uEAo-Kq3mGAs13d5aC-63" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;«&lt;/span&gt;deriveReqt&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;»&lt;/span&gt;">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -357,10 +357,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ckJih1ObpwnBkCq9B-FR-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#DCE7F5;spacingLeft=10;strokeColor=#7E8D9C;strokeWidth=2;" value="« functionnalRequirement»&lt;br&gt;&lt;b&gt;Commande de la chambre UVC&lt;/b&gt;" vertex="1">
-          <mxGeometry height="40" width="370" x="810" y="760" as="geometry" />
+          <mxGeometry height="40" width="370" x="840" y="760" as="geometry" />
         </mxCell>
         <mxCell id="ckJih1ObpwnBkCq9B-FR-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#DCE7F5;strokeColor=#7E8D9C;strokeWidth=2;" value="&lt;div&gt;Id= « 1.2.4 »&lt;/div&gt;&lt;div&gt;Text= « Commander automatiquement les ballasts des lampes UVC en fonction du débit d’eau, assurer la surveillance de leur fonctionnement et déclencher une alarme en cas de défaillance.&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;»&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="370" x="810" y="800" as="geometry" />
+          <mxGeometry height="80" width="370" x="840" y="800" as="geometry" />
         </mxCell>
         <mxCell id="ckJih1ObpwnBkCq9B-FR-24" edge="1" parent="1" source="ckJih1ObpwnBkCq9B-FR-22" style="endArrow=open;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="6-uEAo-Kq3mGAs13d5aC-63" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;«&lt;/span&gt;deriveReqt&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;»&lt;/span&gt;">
           <mxGeometry height="50" relative="1" width="50" x="-0.3352" y="-5" as="geometry">
