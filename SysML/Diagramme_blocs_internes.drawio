@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
   <diagram name="Page-1" id="4m5wZz14gVHgMvskjXs-">
     <mxGraphModel dx="1426" dy="2074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,6 +13,42 @@
         <UserObject label="&lt;img src=&quot;https://www.pseau.org/outils/gallery3/var/resizes/actions/naddhal1/Guin__e_naddhal1bis.jpg?m=1313065172&quot; alt=&quot;Réservoir et déferriseur dans le village de Naddhal&quot;&gt;" link="&lt;img src=&quot;https://www.pseau.org/outils/gallery3/var/resizes/actions/naddhal1/Guin__e_naddhal1bis.jpg?m=1313065172&quot; alt=&quot;Réservoir et déferriseur dans le village de Naddhal&quot;&gt;" id="VeulsSr04w9ol6FO9IJ3-1">
           <mxCell parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
             <mxGeometry height="40" width="30" x="110" y="-740" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="vk_-zuqr3eh1BiB6ofZm-1" parent="1" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=186;align=left;spacingLeft=5;verticalAlign=top;spacingTop=-3;" value="&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:5px;text-align:left;&quot;&gt;&lt;b&gt;ibd&lt;/b&gt;&amp;nbsp;Système d&#39;adduction d&#39;eau&lt;/p&gt;" vertex="1">
+          <mxGeometry height="630" width="960" x="110" y="-150" as="geometry" />
+        </mxCell>
+        <mxCell id="vk_-zuqr3eh1BiB6ofZm-12" edge="1" parent="1" source="vk_-zuqr3eh1BiB6ofZm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="-29.799999999999955" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vk_-zuqr3eh1BiB6ofZm-2" parent="1" style="html=1;shape=mxgraph.sysml.port;sysMLPortType=flowN;rotation=90;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="100" y="-40" as="geometry" />
+        </mxCell>
+        <mxCell id="vk_-zuqr3eh1BiB6ofZm-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Eau dans le puit" vertex="1">
+          <mxGeometry height="30" width="60" x="30" y="-40" as="geometry" />
+        </mxCell>
+        <mxCell id="vk_-zuqr3eh1BiB6ofZm-11" edge="1" parent="1" source="vk_-zuqr3eh1BiB6ofZm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="vk_-zuqr3eh1BiB6ofZm-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="-30" />
+              <mxPoint x="150" y="-30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vk_-zuqr3eh1BiB6ofZm-14" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="30" width="120" x="160" y="-45" as="geometry" />
+        </mxCell>
+        <mxCell id="vk_-zuqr3eh1BiB6ofZm-4" parent="vk_-zuqr3eh1BiB6ofZm-14" style="html=1;shape=mxgraph.sysml.itemFlow;fontStyle=1;flowDir=e;flowType=out;whiteSpace=wrap;align=center;" value=":Pompe de puisage" vertex="1">
+          <mxGeometry height="30" width="110" x="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vk_-zuqr3eh1BiB6ofZm-5" parent="vk_-zuqr3eh1BiB6ofZm-14" style="html=1;shape=mxgraph.sysml.port;sysMLPortType=flowN;rotation=90;" value="" vertex="1">
+          <mxGeometry height="20" width="20" y="5" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;img src=&quot;https://www.pseau.org/outils/gallery3/var/resizes/actions/naddhal1_001/naddhal37.jpg?m=1313065434&quot; alt=&quot;Schéma technique des installations&quot;&gt;" link="&lt;img src=&quot;https://www.pseau.org/outils/gallery3/var/resizes/actions/naddhal1_001/naddhal37.jpg?m=1313065434&quot; alt=&quot;Schéma technique des installations&quot;&gt;" id="vk_-zuqr3eh1BiB6ofZm-15">
+          <mxCell parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="40" width="30" x="810" y="-1130" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
