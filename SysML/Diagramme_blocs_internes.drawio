@@ -51,6 +51,15 @@
             <mxGeometry height="40" width="30" x="810" y="-1130" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="vk_-zuqr3eh1BiB6ofZm-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="191" width="85" x="475" y="-961" as="geometry" />
+        </mxCell>
+        <mxCell id="vk_-zuqr3eh1BiB6ofZm-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="24" width="70" x="570" y="-790" as="geometry" />
+        </mxCell>
+        <mxCell id="vk_-zuqr3eh1BiB6ofZm-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="24" width="70" x="604" y="-800" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
