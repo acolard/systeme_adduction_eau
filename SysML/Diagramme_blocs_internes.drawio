@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.3.2">
   <diagram name="Page-1" id="4m5wZz14gVHgMvskjXs-">
-    <mxGraphModel dx="2607" dy="2852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1738" dy="2291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -249,9 +249,6 @@
         <mxCell id="wJPpq5CnJLe0lOiTsXiv-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#3333FF;" value="Eau clarifiée" vertex="1">
           <mxGeometry height="30" width="60" x="1191" y="645" as="geometry" />
         </mxCell>
-        <mxCell id="Nq7Q0cMXDn7y_Q7rRDdd-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#00CC00;" value="Dose UV" vertex="1">
-          <mxGeometry height="40" width="60" x="1880" y="22" as="geometry" />
-        </mxCell>
         <mxCell id="wJPpq5CnJLe0lOiTsXiv-30" parent="1" style="html=1;shape=mxgraph.sysml.port;sysMLPortType=flowN;rotation=0;direction=west;" value="" vertex="1">
           <mxGeometry height="20" width="20" x="1310" y="582" as="geometry" />
         </mxCell>
@@ -430,9 +427,6 @@
         </mxCell>
         <mxCell id="CBCBGkqoCY-ZVc8ra3eq-92" edge="1" parent="1" source="CBCBGkqoCY-ZVc8ra3eq-90" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#005700;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;startSize=14;endArrow=none;endFill=0;fillColor=#008a00;" target="CBCBGkqoCY-ZVc8ra3eq-10">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CBCBGkqoCY-ZVc8ra3eq-93" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#00CC00;" value="Débit eau clarifiée" vertex="1">
-          <mxGeometry height="40" width="60" x="1680" y="92" as="geometry" />
         </mxCell>
         <mxCell id="CBCBGkqoCY-ZVc8ra3eq-96" edge="1" parent="1" source="CBCBGkqoCY-ZVc8ra3eq-32" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B20000;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;startSize=14;endArrow=none;endFill=0;fillColor=#e51400;dashed=1;dashPattern=8 8;" target="CBCBGkqoCY-ZVc8ra3eq-20">
           <mxGeometry relative="1" as="geometry" />
