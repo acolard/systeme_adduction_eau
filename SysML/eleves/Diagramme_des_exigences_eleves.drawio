@@ -181,9 +181,6 @@
             <mxPoint x="-530" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6-uEAo-Kq3mGAs13d5aC-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;a href=&quot;https://www.amilo.earth/sterilisation-de-leau-de-captage/&quot;&gt;Filtration&lt;/a&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="-590" y="640" as="geometry" />
-        </mxCell>
         <mxCell id="6-uEAo-Kq3mGAs13d5aC-24" edge="1" parent="1" source="6-uEAo-Kq3mGAs13d5aC-25" style="endArrow=open;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="6-uEAo-Kq3mGAs13d5aC-9" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;«&lt;/span&gt;deriveReqt&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;»&lt;/span&gt;">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1497.5" y="550" as="sourcePoint" />
