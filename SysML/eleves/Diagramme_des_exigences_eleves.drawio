@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
   <diagram name="Page-1" id="FD6a0eIkP-yFIm-n0HSb">
-    <mxGraphModel dx="2728" dy="2457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1883" dy="1885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MTHZrxHhinVc485NsL0f-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" value="" vertex="1">
+          <mxGeometry height="380" width="270" x="-702.5" y="30" as="geometry" />
+        </mxCell>
         <mxCell id="I0eCNYzOyJm9w0QBN4gf-26" edge="1" parent="1" source="I0eCNYzOyJm9w0QBN4gf-7" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;startArrow=sysMLPackCont;startSize=12;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="I0eCNYzOyJm9w0QBN4gf-14" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -205,7 +208,7 @@
         <mxCell id="6-uEAo-Kq3mGAs13d5aC-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#F9CECB;spacingLeft=10;strokeColor=#AB5562;strokeWidth=2;" value="« performanceRequirement»&lt;br&gt;&lt;b&gt;Pression&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="239.99999999999997" x="-686.25" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="6-uEAo-Kq3mGAs13d5aC-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#F9CECB;strokeColor=#AB5562;strokeWidth=2;" value="&lt;div&gt;Id= « 1.4 .1 »&lt;/div&gt;&lt;div&gt;Text= « Pression aux points de distribution doit être comprise entre 0.5 et 3 bars&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;»&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="6-uEAo-Kq3mGAs13d5aC-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#F9CECB;strokeColor=#AB5562;strokeWidth=2;" value="&lt;div&gt;Id= « 1.4 .1 »&lt;/div&gt;&lt;div&gt;Text= « Pression aux points de distribution doit être supérieur à 3 bars&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;»&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="239.99999999999997" x="-686.25" y="210" as="geometry" />
         </mxCell>
         <mxCell id="6-uEAo-Kq3mGAs13d5aC-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#F9CECB;spacingLeft=10;strokeColor=#AB5562;strokeWidth=2;" value="« performanceRequirement»&lt;br&gt;&lt;b&gt;Perte de charge&lt;/b&gt;" vertex="1">
@@ -371,9 +374,6 @@
             <mxPoint x="1800" y="635" as="sourcePoint" />
             <mxPoint x="1750" y="405" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="MTHZrxHhinVc485NsL0f-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" value="" vertex="1">
-          <mxGeometry height="380" width="270" x="-702.5" y="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
