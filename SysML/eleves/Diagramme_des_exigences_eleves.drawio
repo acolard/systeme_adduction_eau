@@ -383,7 +383,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DjfmPLQhs7VtucjEnwwo-5" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="150" width="300" x="1100" y="720" as="geometry" />
+          <mxGeometry height="150" width="300" x="1110" y="720" as="geometry" />
         </mxCell>
         <mxCell id="DjfmPLQhs7VtucjEnwwo-6" parent="DjfmPLQhs7VtucjEnwwo-5" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#F9CECB;spacingLeft=10;strokeColor=#AB5562;strokeWidth=2;" value="« performanceRequirement»&lt;br&gt;&lt;b&gt;Tension de circuit ouvert (Voc)&amp;nbsp;&lt;/b&gt;&lt;b&gt;panneaux solaires&lt;/b&gt;&lt;div&gt;&lt;b&gt;pompe de puisage&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="300" as="geometry" />
