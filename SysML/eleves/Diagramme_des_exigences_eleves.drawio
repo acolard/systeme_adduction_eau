@@ -1,35 +1,29 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.4.0">
   <diagram name="Page-1" id="FD6a0eIkP-yFIm-n0HSb">
-    <mxGraphModel dx="2895" dy="2489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2418" dy="2184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MTHZrxHhinVc485NsL0f-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" value="" vertex="1">
-          <mxGeometry height="380" width="270" x="-702.5" y="30" as="geometry" />
+          <mxGeometry height="380" width="270" x="-722.5" y="-80" as="geometry" />
         </mxCell>
         <mxCell id="I0eCNYzOyJm9w0QBN4gf-26" edge="1" parent="1" source="I0eCNYzOyJm9w0QBN4gf-7" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;startArrow=sysMLPackCont;startSize=12;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="I0eCNYzOyJm9w0QBN4gf-14" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-145" y="280" />
+              <mxPoint x="-167" y="290" />
             </Array>
             <mxPoint x="410" y="890" as="sourcePoint" />
             <mxPoint x="500" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I0eCNYzOyJm9w0QBN4gf-27" edge="1" parent="1" source="I0eCNYzOyJm9w0QBN4gf-18" style="endArrow=open;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endFill=0;" target="I0eCNYzOyJm9w0QBN4gf-15" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;«&lt;/span&gt;deriveReqt&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;»&lt;/span&gt;">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-100" y="600" as="sourcePoint" />
-            <mxPoint x="-50" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="I0eCNYzOyJm9w0QBN4gf-28" edge="1" parent="1" source="I0eCNYzOyJm9w0QBN4gf-20" style="endArrow=open;dashed=1;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endFill=0;" target="I0eCNYzOyJm9w0QBN4gf-15" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;«r&lt;/span&gt;&lt;span style=&quot;background-color: rgb(236, 236, 236);&quot;&gt;efine&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;»&lt;/span&gt;">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="160" y="480" as="sourcePoint" />
-            <mxPoint x="180" y="430" as="targetPoint" />
+            <mxPoint x="137.92000000000002" y="480" as="sourcePoint" />
+            <mxPoint x="157.92000000000002" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I0eCNYzOyJm9w0QBN4gf-29" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="140" width="200" x="-370" y="500" as="geometry" />
+          <mxGeometry height="140" width="200" x="600" y="360" as="geometry" />
         </mxCell>
         <mxCell id="I0eCNYzOyJm9w0QBN4gf-18" parent="I0eCNYzOyJm9w0QBN4gf-29" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#DCE7F5;spacingLeft=10;strokeColor=#7E8D9C;strokeWidth=2;" value="« functionnalRequirement»&lt;br&gt;&lt;b&gt;Filtration&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="200" as="geometry" />
@@ -38,12 +32,12 @@
           <mxGeometry height="60" width="200" y="40" as="geometry" />
         </mxCell>
         <mxCell id="I0eCNYzOyJm9w0QBN4gf-30" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="140" width="170" x="-230" y="350" as="geometry" />
+          <mxGeometry height="140" width="170" x="-252.07999999999998" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="I0eCNYzOyJm9w0QBN4gf-14" parent="I0eCNYzOyJm9w0QBN4gf-30" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#DCE7F5;spacingLeft=10;strokeColor=#7E8D9C;strokeWidth=2;" value="« Requirement»&lt;br&gt;&lt;b&gt;Captation&lt;/b&gt;" vertex="1">
+        <mxCell id="I0eCNYzOyJm9w0QBN4gf-14" parent="I0eCNYzOyJm9w0QBN4gf-30" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#DCE7F5;spacingLeft=10;strokeColor=#7E8D9C;strokeWidth=2;" value="« Requirement»&lt;br&gt;&lt;b&gt;Puisage&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="170" as="geometry" />
         </mxCell>
-        <mxCell id="I0eCNYzOyJm9w0QBN4gf-15" parent="I0eCNYzOyJm9w0QBN4gf-30" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#DCE7F5;strokeColor=#7E8D9C;strokeWidth=2;" value="&lt;div&gt;Id= « 1.1 »&lt;/div&gt;&lt;div&gt;Text= «&amp;nbsp; Capter l’eau depuis une source naturelle&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;»&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="I0eCNYzOyJm9w0QBN4gf-15" parent="I0eCNYzOyJm9w0QBN4gf-30" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#DCE7F5;strokeColor=#7E8D9C;strokeWidth=2;" value="&lt;div&gt;Id= « 1.1 »&lt;/div&gt;&lt;div&gt;Text= «&amp;nbsp; Puiser l’eau depuis une source naturelle&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;»&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="170" y="40" as="geometry" />
         </mxCell>
         <mxCell id="I0eCNYzOyJm9w0QBN4gf-31" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -56,22 +50,13 @@
           <mxGeometry height="80" width="280" y="60" as="geometry" />
         </mxCell>
         <mxCell id="I0eCNYzOyJm9w0QBN4gf-32" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="150" width="240" x="5" y="910" as="geometry" />
+          <mxGeometry height="150" width="240" x="-159.99999999999997" y="560" as="geometry" />
         </mxCell>
         <mxCell id="I0eCNYzOyJm9w0QBN4gf-20" parent="I0eCNYzOyJm9w0QBN4gf-32" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#F9CECB;spacingLeft=10;strokeColor=#AB5562;strokeWidth=2;" value="« performanceRequirement»&lt;br&gt;&lt;b&gt;Débit&lt;/b&gt;" vertex="1">
           <mxGeometry height="42.857142857142854" width="239.99999999999997" x="10" as="geometry" />
         </mxCell>
         <mxCell id="I0eCNYzOyJm9w0QBN4gf-21" parent="I0eCNYzOyJm9w0QBN4gf-32" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#F9CECB;strokeColor=#AB5562;strokeWidth=2;" value="&lt;div&gt;Id= «&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1.2.3.1&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;»&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Text= «&amp;nbsp; Garantir un débit minimal de captation de &lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;??????&amp;nbsp;&lt;/b&gt;&lt;/font&gt;m&lt;sup&gt;3&lt;/sup&gt;/h conforme au besoin&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;»&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="64.28571428571428" width="239.99999999999997" x="10" y="42.857142857142854" as="geometry" />
-        </mxCell>
-        <mxCell id="I0eCNYzOyJm9w0QBN4gf-33" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="140" width="190" x="310" y="290" as="geometry" />
-        </mxCell>
-        <mxCell id="I0eCNYzOyJm9w0QBN4gf-34" parent="I0eCNYzOyJm9w0QBN4gf-33" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#DCE7F5;spacingLeft=10;strokeColor=#7E8D9C;strokeWidth=2;" value="« Requirement»&lt;br&gt;&lt;b&gt;Pompage&lt;/b&gt;" vertex="1">
-          <mxGeometry height="40" width="190" as="geometry" />
-        </mxCell>
-        <mxCell id="I0eCNYzOyJm9w0QBN4gf-35" parent="I0eCNYzOyJm9w0QBN4gf-33" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#DCE7F5;strokeColor=#7E8D9C;strokeWidth=2;" value="&lt;div&gt;Id= « 1.2 »&lt;/div&gt;&lt;div&gt;Text= «&amp;nbsp; Pomper l’eau depuis la source vers le réservoir&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;»&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="190" y="40" as="geometry" />
         </mxCell>
         <mxCell id="I0eCNYzOyJm9w0QBN4gf-36" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="140" width="220" x="2055" y="500" as="geometry" />
@@ -92,7 +77,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="I0eCNYzOyJm9w0QBN4gf-41" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="140" width="210" x="-540" y="840" as="geometry" />
+          <mxGeometry height="140" width="210" x="470" y="710" as="geometry" />
         </mxCell>
         <mxCell id="I0eCNYzOyJm9w0QBN4gf-42" parent="I0eCNYzOyJm9w0QBN4gf-41" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#F9CECB;spacingLeft=10;strokeColor=#AB5562;strokeWidth=2;" value="« performanceRequirement»&lt;br&gt;&lt;b&gt;Diamètre des particules&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="209.99999999999997" as="geometry" />
@@ -112,25 +97,10 @@
             <mxPoint x="-20" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6-uEAo-Kq3mGAs13d5aC-4" edge="1" parent="1" source="6-uEAo-Kq3mGAs13d5aC-2" style="endArrow=open;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="I0eCNYzOyJm9w0QBN4gf-35" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;«&lt;/span&gt;deriveReqt&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;»&lt;/span&gt;">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="240" y="800" as="sourcePoint" />
-            <mxPoint x="460" y="490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6-uEAo-Kq3mGAs13d5aC-5" edge="1" parent="1" source="I0eCNYzOyJm9w0QBN4gf-20" style="endArrow=open;dashed=1;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endFill=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" target="5UL0F4uv4o7kwd8vacWe-29" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;«r&lt;/span&gt;&lt;span style=&quot;background-color: rgb(236, 236, 236);&quot;&gt;efine&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;»&lt;/span&gt;">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="300" y="1080" as="sourcePoint" />
-            <mxPoint x="219.5" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6-uEAo-Kq3mGAs13d5aC-6" edge="1" parent="1" source="I0eCNYzOyJm9w0QBN4gf-7" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;startArrow=sysMLPackCont;startSize=12;endFill=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="I0eCNYzOyJm9w0QBN4gf-34" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="405" y="310" />
-            </Array>
-            <mxPoint x="460" y="300" as="sourcePoint" />
-            <mxPoint x="460" y="340" as="targetPoint" />
+            <mxPoint x="277.92" y="1080" as="sourcePoint" />
+            <mxPoint x="197.42000000000002" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6-uEAo-Kq3mGAs13d5aC-10" edge="1" parent="1" source="I0eCNYzOyJm9w0QBN4gf-7" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;startArrow=sysMLPackCont;startSize=12;endFill=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6-uEAo-Kq3mGAs13d5aC-8" value="">
@@ -161,27 +131,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6-uEAo-Kq3mGAs13d5aC-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#DCE7F5;spacingLeft=10;strokeColor=#7E8D9C;strokeWidth=2;" value="« functionnalRequirement»&lt;br&gt;&lt;b&gt;Distribution eau&lt;/b&gt;" vertex="1">
-          <mxGeometry height="40" width="220.00000000000003" x="-686.25" y="50" as="geometry" />
+          <mxGeometry height="40" width="220.00000000000003" x="-706.25" y="-60" as="geometry" />
         </mxCell>
         <mxCell id="6-uEAo-Kq3mGAs13d5aC-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#DCE7F5;strokeColor=#7E8D9C;strokeWidth=2;" value="&lt;div&gt;Id= « ?????? »&lt;/div&gt;&lt;div&gt;Text= « Permettre une distribution gravitaire&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;»&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="220.00000000000003" x="-686.25" y="90" as="geometry" />
+          <mxGeometry height="60" width="220.00000000000003" x="-706.25" y="-20" as="geometry" />
         </mxCell>
         <mxCell id="6-uEAo-Kq3mGAs13d5aC-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#F9CECB;spacingLeft=10;strokeColor=#AB5562;strokeWidth=2;" value="« performanceRequirement»&lt;br&gt;&lt;b&gt;Pression&lt;/b&gt;" vertex="1">
-          <mxGeometry height="40" width="239.99999999999997" x="-686.25" y="170" as="geometry" />
+          <mxGeometry height="40" width="239.99999999999997" x="-706.25" y="60" as="geometry" />
         </mxCell>
         <mxCell id="6-uEAo-Kq3mGAs13d5aC-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#F9CECB;strokeColor=#AB5562;strokeWidth=2;" value="&lt;div&gt;Id= « ?????? »&lt;/div&gt;&lt;div&gt;Text= « Pression aux points de distribution doit être supérieur à 3 bars&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;»&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="239.99999999999997" x="-686.25" y="210" as="geometry" />
+          <mxGeometry height="60" width="239.99999999999997" x="-706.25" y="100" as="geometry" />
         </mxCell>
         <mxCell id="6-uEAo-Kq3mGAs13d5aC-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#F9CECB;spacingLeft=10;strokeColor=#AB5562;strokeWidth=2;" value="« performanceRequirement»&lt;br&gt;&lt;b&gt;Perte de charge&lt;/b&gt;" vertex="1">
-          <mxGeometry height="40" width="239.99999999999997" x="-686.25" y="290" as="geometry" />
+          <mxGeometry height="40" width="239.99999999999997" x="-706.25" y="180" as="geometry" />
         </mxCell>
         <mxCell id="6-uEAo-Kq3mGAs13d5aC-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#F9CECB;strokeColor=#AB5562;strokeWidth=2;" value="&lt;div&gt;Id= « ?????&amp;nbsp; »&lt;/div&gt;&lt;div&gt;Text= « Pertes de charge dans les conduites doivent rester inférieurs à 10 m par km&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;»&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="240" x="-686.25" y="330" as="geometry" />
+          <mxGeometry height="70" width="240" x="-706.25" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="6-uEAo-Kq3mGAs13d5aC-39" edge="1" parent="1" source="6-uEAo-Kq3mGAs13d5aC-37" style="endArrow=open;dashed=1;html=1;rounded=0;endFill=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="I0eCNYzOyJm9w0QBN4gf-35" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;«r&lt;/span&gt;&lt;span style=&quot;background-color: rgb(236, 236, 236);&quot;&gt;efine&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;»&lt;/span&gt;">
+        <mxCell id="6-uEAo-Kq3mGAs13d5aC-39" edge="1" parent="1" source="6-uEAo-Kq3mGAs13d5aC-37" style="endArrow=open;dashed=1;html=1;rounded=0;endFill=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" target="I0eCNYzOyJm9w0QBN4gf-15" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;«r&lt;/span&gt;&lt;span style=&quot;background-color: rgb(236, 236, 236);&quot;&gt;efine&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;»&lt;/span&gt;">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="145" y="600" as="sourcePoint" />
-            <mxPoint x="410" y="770" as="targetPoint" />
+            <mxPoint x="122.92" y="600" as="sourcePoint" />
+            <mxPoint x="387.92" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6-uEAo-Kq3mGAs13d5aC-45" edge="1" parent="1" source="6-uEAo-Kq3mGAs13d5aC-43" style="endArrow=open;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endFill=0;" target="ckJih1ObpwnBkCq9B-FR-14" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;«r&lt;/span&gt;&lt;span style=&quot;background-color: rgb(236, 236, 236);&quot;&gt;efine&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;»&lt;/span&gt;">
@@ -191,19 +161,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6-uEAo-Kq3mGAs13d5aC-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="&lt;h2 data-start=&quot;232&quot; data-end=&quot;313&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;✅ &lt;strong data-start=&quot;237&quot; data-end=&quot;313&quot;&gt;La relation &amp;lt;&amp;lt; deriveReqt &amp;gt;&amp;gt; indique qu’une exigence dérive d’une autre.&lt;/strong&gt;&lt;/font&gt;&lt;/h2&gt;&lt;u&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Exemple :&lt;br&gt;&lt;/font&gt;&lt;/u&gt;&lt;p data-start=&quot;315&quot; data-end=&quot;490&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;De l&#39;exigence &quot;Filtration - Id=1.1.1&quot; on dérive les exigences &quot;Microfiltration - id=1.1.1.1&quot; et &quot;Qualité de l&#39;eau - id=1.1.1.2&quot;&lt;/span&gt;&lt;/p&gt;&lt;h2 data-start=&quot;840&quot; data-end=&quot;918&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;✅ &lt;strong data-start=&quot;845&quot; data-end=&quot;918&quot;&gt;La relation &amp;lt;&amp;lt; refine &amp;gt;&amp;gt; indique qu’un élément apporte une description plus détaillée, un complément, ou une interprétation plus précise d’une autre exigence&lt;/strong&gt;&lt;/font&gt;&lt;/h2&gt;&lt;u&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Exemple :&lt;br&gt;&lt;/font&gt;&lt;/u&gt;&lt;p data-start=&quot;920&quot; data-end=&quot;952&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;L&#39;exigence de performance mesurable et vérifiable &quot;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); font-size: 10px;&quot;&gt;Diamètre des particules - Id=1.1.1.1.1&quot; précise l&#39;exigence &quot;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); font-size: 10px;&quot;&gt;Microfiltration - Id=1.1.1.1&quot;&lt;/span&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="300" width="530" x="-360" y="-60" as="geometry" />
+          <mxGeometry height="300" width="530" x="-380" y="-170" as="geometry" />
         </mxCell>
         <mxCell id="ckJih1ObpwnBkCq9B-FR-1" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="160" width="190" y="505" as="geometry" />
+          <mxGeometry height="160" width="190" x="-412.08" y="560" as="geometry" />
         </mxCell>
         <mxCell id="6-uEAo-Kq3mGAs13d5aC-37" parent="ckJih1ObpwnBkCq9B-FR-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#F9CECB;spacingLeft=10;strokeColor=#AB5562;strokeWidth=2;" value="« performanceRequirement»&lt;br&gt;&lt;b&gt;Puissance hydraulique minimale pompe de puisage&lt;/b&gt;" vertex="1">
           <mxGeometry height="64" width="189.99999999999997" as="geometry" />
         </mxCell>
-        <mxCell id="6-uEAo-Kq3mGAs13d5aC-38" parent="ckJih1ObpwnBkCq9B-FR-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#F9CECB;strokeColor=#AB5562;strokeWidth=2;" value="&lt;div&gt;Id= « 1.2.2 »&lt;/div&gt;&lt;div&gt;Text= «&amp;nbsp; Fournir une puissance hydraulique d&#39;au moins &lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;?????&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;span class=&quot;mord&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;W&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;»&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="6-uEAo-Kq3mGAs13d5aC-38" parent="ckJih1ObpwnBkCq9B-FR-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#F9CECB;strokeColor=#AB5562;strokeWidth=2;" value="&lt;div&gt;Id= « 1.1.3&amp;nbsp;»&lt;/div&gt;&lt;div&gt;Text= «&amp;nbsp; Fournir une puissance hydraulique d&#39;au moins &lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;?????&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;span class=&quot;mord&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;W&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;»&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="76" width="190" y="64" as="geometry" />
         </mxCell>
         <mxCell id="ckJih1ObpwnBkCq9B-FR-9" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="140" width="240" x="-310" y="990" as="geometry" />
+          <mxGeometry height="140" width="240" x="710" y="860" as="geometry" />
         </mxCell>
         <mxCell id="ckJih1ObpwnBkCq9B-FR-10" parent="ckJih1ObpwnBkCq9B-FR-9" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#F9CECB;spacingLeft=10;strokeColor=#AB5562;strokeWidth=2;" value="« performanceRequirement»&lt;br&gt;&lt;b&gt;Norme&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="300" x="-60" as="geometry" />
@@ -249,7 +219,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9W9Vh-gM514vpM5ovrJF-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Exigences à intégrer dans le diagramme&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="287.5" x="-720" y="-10" as="geometry" />
+          <mxGeometry height="30" width="287.5" x="-740" y="-120" as="geometry" />
         </mxCell>
         <mxCell id="MTHZrxHhinVc485NsL0f-3" edge="1" parent="1" source="I0eCNYzOyJm9w0QBN4gf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;startArrow=sysMLPackCont;startSize=12;endArrow=none;endFill=0;" target="MTHZrxHhinVc485NsL0f-1">
           <mxGeometry relative="1" as="geometry" />
@@ -286,16 +256,16 @@
           <mxGeometry height="90" width="300" y="50" as="geometry" />
         </mxCell>
         <mxCell id="5UL0F4uv4o7kwd8vacWe-1" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="200" width="190" y="330" as="geometry" />
+          <mxGeometry height="150" width="197.92" x="-560" y="390" as="geometry" />
         </mxCell>
         <mxCell id="5UL0F4uv4o7kwd8vacWe-2" parent="5UL0F4uv4o7kwd8vacWe-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#F9CECB;spacingLeft=10;strokeColor=#AB5562;strokeWidth=2;" value="« performanceRequirement»&lt;br&gt;&lt;b&gt;Hauteur manométrique puisage&lt;/b&gt;" vertex="1">
-          <mxGeometry height="57.14285714285714" width="189.99999999999994" x="7.916666666666666" as="geometry" />
+          <mxGeometry height="65.625" width="190" x="7.92" as="geometry" />
         </mxCell>
-        <mxCell id="5UL0F4uv4o7kwd8vacWe-3" parent="5UL0F4uv4o7kwd8vacWe-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#F9CECB;strokeColor=#AB5562;strokeWidth=2;" value="&lt;div&gt;Id= « 1.2.1 »&lt;/div&gt;&lt;div&gt;Text= «&amp;nbsp; Permettre le pompage de l&#39;eau du puit sur une hauteur de&amp;nbsp;&lt;b style=&quot;background-color: transparent; color: rgb(255, 0, 0);&quot;&gt;????? &lt;/b&gt;&lt;b style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;m&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;»&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="85.7142857142857" width="189.99999999999994" x="7.916666666666666" y="57.14285714285714" as="geometry" />
+        <mxCell id="5UL0F4uv4o7kwd8vacWe-3" parent="5UL0F4uv4o7kwd8vacWe-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#F9CECB;strokeColor=#AB5562;strokeWidth=2;" value="&lt;div&gt;Id= « 1.1.2&amp;nbsp;»&lt;/div&gt;&lt;div&gt;Text= «&amp;nbsp; Permettre le pompage de l&#39;eau du puit sur une hauteur de&amp;nbsp;&lt;b style=&quot;background-color: transparent; color: rgb(255, 0, 0);&quot;&gt;????? &lt;/b&gt;&lt;b style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;m&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;»&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="84.375" width="190" x="7.92" y="65.625" as="geometry" />
         </mxCell>
         <mxCell id="5UL0F4uv4o7kwd8vacWe-6" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="100" width="200" x="-310" y="690" as="geometry" />
+          <mxGeometry height="100" width="200" x="700" y="560" as="geometry" />
         </mxCell>
         <mxCell id="I0eCNYzOyJm9w0QBN4gf-44" parent="5UL0F4uv4o7kwd8vacWe-6" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#DCE7F5;spacingLeft=10;strokeColor=#7E8D9C;strokeWidth=2;" value="« functionnalRequirement»&lt;br&gt;&lt;b&gt;Qualité de l&#39;eau&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="200" as="geometry" />
@@ -304,7 +274,7 @@
           <mxGeometry height="60" width="200" y="40" as="geometry" />
         </mxCell>
         <mxCell id="5UL0F4uv4o7kwd8vacWe-7" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="100" width="200" x="-530" y="690" as="geometry" />
+          <mxGeometry height="100" width="200" x="480" y="560" as="geometry" />
         </mxCell>
         <mxCell id="6-uEAo-Kq3mGAs13d5aC-12" parent="5UL0F4uv4o7kwd8vacWe-7" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#DCE7F5;spacingLeft=10;strokeColor=#7E8D9C;strokeWidth=2;" value="« functionnalRequirement»&lt;br&gt;&lt;b&gt;Microfiltration&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="200" as="geometry" />
@@ -313,7 +283,7 @@
           <mxGeometry height="60" width="200" y="40" as="geometry" />
         </mxCell>
         <mxCell id="5UL0F4uv4o7kwd8vacWe-8" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="100" width="200" x="-310" y="840" as="geometry" />
+          <mxGeometry height="100" width="200" x="700" y="710" as="geometry" />
         </mxCell>
         <mxCell id="I0eCNYzOyJm9w0QBN4gf-48" parent="5UL0F4uv4o7kwd8vacWe-8" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#DCE7F5;spacingLeft=10;strokeColor=#7E8D9C;strokeWidth=2;" value="« functionnalRequirement»&lt;br&gt;&lt;b&gt;Désinfection&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="200" as="geometry" />
@@ -321,19 +291,10 @@
         <mxCell id="I0eCNYzOyJm9w0QBN4gf-49" parent="5UL0F4uv4o7kwd8vacWe-8" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#DCE7F5;strokeColor=#7E8D9C;strokeWidth=2;" value="&lt;div&gt;Id= « 1.1.1.2.1 »&lt;/div&gt;&lt;div&gt;Text= « Intégrer au moins une étape de désinfection (UV, chlorination, etc.)&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;»&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="200" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="5UL0F4uv4o7kwd8vacWe-9" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="100" width="220" x="240" y="535" as="geometry" />
-        </mxCell>
-        <mxCell id="6-uEAo-Kq3mGAs13d5aC-2" parent="5UL0F4uv4o7kwd8vacWe-9" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#DCE7F5;spacingLeft=10;strokeColor=#7E8D9C;strokeWidth=2;" value="« functionnalRequirement»&lt;br&gt;&lt;b&gt;Débit&lt;/b&gt;" vertex="1">
-          <mxGeometry height="40" width="220.00000000000003" as="geometry" />
-        </mxCell>
-        <mxCell id="6-uEAo-Kq3mGAs13d5aC-3" parent="5UL0F4uv4o7kwd8vacWe-9" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#DCE7F5;strokeColor=#7E8D9C;strokeWidth=2;" value="&lt;div&gt;Id= « 1.2.3 »&lt;/div&gt;&lt;div&gt;Text= « Être&amp;nbsp;suffisant pour couvrir les besoins journaliers de la population&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;»&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="220.00000000000003" y="40" as="geometry" />
-        </mxCell>
-        <mxCell id="5UL0F4uv4o7kwd8vacWe-10" edge="1" parent="1" source="5UL0F4uv4o7kwd8vacWe-2" style="endArrow=open;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" target="I0eCNYzOyJm9w0QBN4gf-35" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;«r&lt;/span&gt;&lt;span style=&quot;background-color: rgb(236, 236, 236);&quot;&gt;efine&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;»&lt;/span&gt;">
+        <mxCell id="5UL0F4uv4o7kwd8vacWe-10" edge="1" parent="1" source="5UL0F4uv4o7kwd8vacWe-2" style="endArrow=open;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" target="I0eCNYzOyJm9w0QBN4gf-15" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;«r&lt;/span&gt;&lt;span style=&quot;background-color: rgb(236, 236, 236);&quot;&gt;efine&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;»&lt;/span&gt;">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="240" y="540" as="sourcePoint" />
-            <mxPoint x="8" y="360" as="targetPoint" />
+            <mxPoint x="217.92000000000002" y="540" as="sourcePoint" />
+            <mxPoint x="-14.079999999999998" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5UL0F4uv4o7kwd8vacWe-11" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -439,7 +400,7 @@
           <mxGeometry height="60" width="239.99999999999997" y="40" as="geometry" />
         </mxCell>
         <mxCell id="5UL0F4uv4o7kwd8vacWe-27" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="140" width="170" x="600" y="444.5" as="geometry" />
+          <mxGeometry height="140" width="170" x="37.92" y="352" as="geometry" />
         </mxCell>
         <mxCell id="5UL0F4uv4o7kwd8vacWe-28" parent="5UL0F4uv4o7kwd8vacWe-27" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#DCE7F5;spacingLeft=10;strokeColor=#7E8D9C;strokeWidth=2;" value="« Requirement»&lt;br&gt;&lt;b&gt;Circulation&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="170" as="geometry" />
@@ -447,29 +408,23 @@
         <mxCell id="5UL0F4uv4o7kwd8vacWe-29" parent="5UL0F4uv4o7kwd8vacWe-27" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#DCE7F5;strokeColor=#7E8D9C;strokeWidth=2;" value="&lt;div&gt;Id= « 1.3 »&lt;/div&gt;&lt;div&gt;Text= «&amp;nbsp; Faire circuler l&#39;eau dans le système&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;»&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="170" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="5UL0F4uv4o7kwd8vacWe-30" edge="1" parent="1" source="I0eCNYzOyJm9w0QBN4gf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=wire;dashed=1;endArrow=none;endFill=0;startArrow=circlePlus;startFill=0;startSize=5;" target="5UL0F4uv4o7kwd8vacWe-28">
+        <mxCell id="5UL0F4uv4o7kwd8vacWe-30" edge="1" parent="1" source="I0eCNYzOyJm9w0QBN4gf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=wire;dashed=1;endArrow=none;endFill=0;startArrow=circlePlus;startFill=0;startSize=5;" target="5UL0F4uv4o7kwd8vacWe-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="550.06" y="610" as="sourcePoint" />
             <mxPoint x="865.06" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5UL0F4uv4o7kwd8vacWe-32" edge="1" parent="1" source="I0eCNYzOyJm9w0QBN4gf-20" style="endArrow=open;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=0;" target="6-uEAo-Kq3mGAs13d5aC-3" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;«r&lt;/span&gt;&lt;span style=&quot;background-color: rgb(236, 236, 236);&quot;&gt;efine&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;»&lt;/span&gt;">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="572.5" y="1031" as="sourcePoint" />
-            <mxPoint x="340.5" y="620" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5UL0F4uv4o7kwd8vacWe-34" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="200" width="190" x="490" y="710" as="geometry" />
+          <mxGeometry height="200" width="190" x="117.92" y="560" as="geometry" />
         </mxCell>
-        <mxCell id="5UL0F4uv4o7kwd8vacWe-35" parent="5UL0F4uv4o7kwd8vacWe-34" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#F9CECB;spacingLeft=10;strokeColor=#AB5562;strokeWidth=2;" value="« performanceRequirement»&lt;br&gt;&lt;b&gt;Hauteur manométrique circulaztion&lt;/b&gt;" vertex="1">
+        <mxCell id="5UL0F4uv4o7kwd8vacWe-35" parent="5UL0F4uv4o7kwd8vacWe-34" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#F9CECB;spacingLeft=10;strokeColor=#AB5562;strokeWidth=2;" value="« performanceRequirement»&lt;br&gt;&lt;b&gt;Hauteur manométrique circulation&lt;/b&gt;" vertex="1">
           <mxGeometry height="57.14285714285714" width="189.99999999999994" x="7.916666666666666" as="geometry" />
         </mxCell>
         <mxCell id="5UL0F4uv4o7kwd8vacWe-36" parent="5UL0F4uv4o7kwd8vacWe-34" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#F9CECB;strokeColor=#AB5562;strokeWidth=2;" value="&lt;div&gt;Id= « 1.3.1 »&lt;/div&gt;&lt;div&gt;Text= «&amp;nbsp; Permettre la circulation de l&#39;eau&amp;nbsp; sur une hauteur de&amp;nbsp;&lt;b style=&quot;background-color: transparent; color: rgb(255, 0, 0);&quot;&gt;????? &lt;/b&gt;&lt;b style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;m&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;»&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="85.7142857142857" width="189.99999999999994" x="7.916666666666666" y="57.14285714285714" as="geometry" />
         </mxCell>
         <mxCell id="5UL0F4uv4o7kwd8vacWe-37" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="160" width="210" x="720" y="710" as="geometry" />
+          <mxGeometry height="160" width="210" x="290" y="390" as="geometry" />
         </mxCell>
         <mxCell id="5UL0F4uv4o7kwd8vacWe-40" connectable="0" parent="5UL0F4uv4o7kwd8vacWe-37" style="group" value="" vertex="1">
           <mxGeometry height="140" width="210.00000000000003" as="geometry" />
@@ -480,16 +435,24 @@
         <mxCell id="5UL0F4uv4o7kwd8vacWe-39" parent="5UL0F4uv4o7kwd8vacWe-40" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#F9CECB;strokeColor=#AB5562;strokeWidth=2;" value="&lt;div&gt;Id= « 1.3.2 »&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Text= «&amp;nbsp; Fournir une puissance hydraulique d&#39;au moins &lt;/span&gt;&lt;font style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;?????&lt;/font&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;span class=&quot;mord&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;W&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;»&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="76" width="210.00000000000003" y="64" as="geometry" />
         </mxCell>
-        <mxCell id="5UL0F4uv4o7kwd8vacWe-41" edge="1" parent="1" source="5UL0F4uv4o7kwd8vacWe-35" style="endArrow=open;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="5UL0F4uv4o7kwd8vacWe-29" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;«r&lt;/span&gt;&lt;span style=&quot;background-color: rgb(236, 236, 236);&quot;&gt;efine&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;»&lt;/span&gt;">
+        <mxCell id="5UL0F4uv4o7kwd8vacWe-41" edge="1" parent="1" source="5UL0F4uv4o7kwd8vacWe-35" style="endArrow=open;dashed=1;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="5UL0F4uv4o7kwd8vacWe-29" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;«r&lt;/span&gt;&lt;span style=&quot;background-color: rgb(236, 236, 236);&quot;&gt;efine&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;»&lt;/span&gt;">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="612.916666666667" y="600" as="sourcePoint" />
-            <mxPoint x="633" y="480" as="targetPoint" />
+            <mxPoint x="590.8366666666669" y="600" as="sourcePoint" />
+            <mxPoint x="610.92" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5UL0F4uv4o7kwd8vacWe-42" edge="1" parent="1" source="5UL0F4uv4o7kwd8vacWe-38" style="endArrow=open;dashed=1;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="5UL0F4uv4o7kwd8vacWe-29" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;«r&lt;/span&gt;&lt;span style=&quot;background-color: rgb(236, 236, 236);&quot;&gt;efine&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;»&lt;/span&gt;">
+        <mxCell id="5UL0F4uv4o7kwd8vacWe-42" edge="1" parent="1" source="5UL0F4uv4o7kwd8vacWe-38" style="endArrow=open;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="5UL0F4uv4o7kwd8vacWe-29" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;«r&lt;/span&gt;&lt;span style=&quot;background-color: rgb(236, 236, 236);&quot;&gt;efine&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;»&lt;/span&gt;">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="872.79" y="860" as="sourcePoint" />
-            <mxPoint x="867.79" y="700" as="targetPoint" />
+            <mxPoint x="297.92" y="432" as="sourcePoint" />
+            <mxPoint x="845.7099999999999" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5UL0F4uv4o7kwd8vacWe-50" edge="1" parent="1" source="I0eCNYzOyJm9w0QBN4gf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=circlePlus;startFill=0;startSize=5;endArrow=none;endFill=0;" target="I0eCNYzOyJm9w0QBN4gf-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="310" />
+              <mxPoint x="700" y="310" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
