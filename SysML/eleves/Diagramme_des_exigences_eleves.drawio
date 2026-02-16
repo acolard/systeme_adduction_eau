@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.4.0">
   <diagram name="Page-1" id="FD6a0eIkP-yFIm-n0HSb">
-    <mxGraphModel dx="3781" dy="3055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2043" dy="1945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,7 +55,7 @@
         <mxCell id="I0eCNYzOyJm9w0QBN4gf-20" parent="I0eCNYzOyJm9w0QBN4gf-32" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#F9CECB;spacingLeft=10;strokeColor=#AB5562;strokeWidth=2;" value="« performanceRequirement»&lt;br&gt;&lt;b&gt;Débit&lt;/b&gt;" vertex="1">
           <mxGeometry height="42.857142857142854" width="239.99999999999997" x="10" as="geometry" />
         </mxCell>
-        <mxCell id="I0eCNYzOyJm9w0QBN4gf-21" parent="I0eCNYzOyJm9w0QBN4gf-32" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#F9CECB;strokeColor=#AB5562;strokeWidth=2;" value="&lt;div&gt;Id= « 1.1.3&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;»&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Text= «&amp;nbsp; Garantir un débit minimal de captation de &lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;??????&amp;nbsp;&lt;/b&gt;&lt;/font&gt;m&lt;sup&gt;3&lt;/sup&gt;/h conforme au besoin&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;»&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="I0eCNYzOyJm9w0QBN4gf-21" parent="I0eCNYzOyJm9w0QBN4gf-32" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;fillColor=#F9CECB;strokeColor=#AB5562;strokeWidth=2;" value="&lt;div&gt;Id= « 1.1.3&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;»&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Text= «&amp;nbsp; Garantir un débit minimal de captation de &lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;1234&amp;nbsp;&lt;/b&gt;&lt;/font&gt;m&lt;sup&gt;3&lt;/sup&gt;/h conforme au besoin&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;»&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="64.28571428571428" width="239.99999999999997" x="10" y="42.857142857142854" as="geometry" />
         </mxCell>
         <mxCell id="I0eCNYzOyJm9w0QBN4gf-36" connectable="0" parent="1" style="group" value="" vertex="1">
