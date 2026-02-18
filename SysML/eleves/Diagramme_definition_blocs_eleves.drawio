@@ -94,16 +94,16 @@
           <mxGeometry height="51.2013441612993" width="120" as="geometry" />
         </mxCell>
         <mxCell id="cWjnMzTpiP5tqju74WVJ-34" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="71.42" width="100" x="2530" y="1340" as="geometry" />
+          <mxGeometry height="220" width="100" x="2530" y="1340" as="geometry" />
         </mxCell>
-        <mxCell id="cWjnMzTpiP5tqju74WVJ-35" parent="cWjnMzTpiP5tqju74WVJ-34" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;labelBackgroundColor=#E2D5E3;fillColor=light-dark(#F5D062,#281D00);strokeColor=#000000;strokeWidth=1;gradientColor=#FFFFFF;gradientDirection=east;" value="" vertex="1">
-          <mxGeometry height="15.709999999999985" width="100" y="39.99999999999996" as="geometry" />
+        <mxCell id="cWjnMzTpiP5tqju74WVJ-35" parent="cWjnMzTpiP5tqju74WVJ-34" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;labelBackgroundColor=none;fillColor=light-dark(#F5D062,#281D00);strokeColor=#000000;strokeWidth=1;gradientColor=#FFFFFF;gradientDirection=east;" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Values&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tension à vide max : ???? V&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="100" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="cWjnMzTpiP5tqju74WVJ-36" parent="cWjnMzTpiP5tqju74WVJ-34" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;labelBackgroundColor=#E2D5E3;fillColor=light-dark(#F5D062,#281D00);strokeColor=#000000;strokeWidth=1;gradientColor=#FFFFFF;gradientDirection=east;" value="" vertex="1">
-          <mxGeometry height="15.709999999999985" width="100" y="55.70999999999998" as="geometry" />
+        <mxCell id="cWjnMzTpiP5tqju74WVJ-37" parent="cWjnMzTpiP5tqju74WVJ-34" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#F5D062,#281D00);spacingLeft=10;strokeColor=#000000;strokeWidth=1;gradientColor=#FFFFFF;gradientDirection=east;" value="« Block»&lt;br&gt;&lt;b&gt;contrôleur de charge&lt;/b&gt;" vertex="1">
+          <mxGeometry height="70" width="100" as="geometry" />
         </mxCell>
-        <mxCell id="cWjnMzTpiP5tqju74WVJ-37" parent="cWjnMzTpiP5tqju74WVJ-34" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#F5D062,#281D00);spacingLeft=10;strokeColor=#000000;strokeWidth=1;gradientColor=#FFFFFF;gradientDirection=east;" value="« Block»&lt;br&gt;&lt;b&gt;Régulateur&lt;/b&gt;" vertex="1">
-          <mxGeometry height="39.99999999999996" width="100" as="geometry" />
+        <mxCell id="J_b2PuU_42r06lF3VRwR-2" parent="cWjnMzTpiP5tqju74WVJ-34" style="rounded=0;whiteSpace=wrap;html=1;align=left;imageAlign=left;labelPadding=0;direction=east;spacingLeft=10;labelBackgroundColor=none;fillColor=light-dark(#F5D062,#281D00);strokeColor=#000000;strokeWidth=1;gradientColor=#FFFFFF;gradientDirection=east;" value="&lt;div style=&quot;&quot;&gt;&lt;i&gt;&amp;nbsp; References&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;: ?????&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="100" y="160" as="geometry" />
         </mxCell>
         <mxCell id="cWjnMzTpiP5tqju74WVJ-46" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="71.42" width="280" x="1200" y="610" as="geometry" />
